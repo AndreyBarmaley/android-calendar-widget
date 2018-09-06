@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="dayMonthCellHeight">32dp</dimen>    
+    <dimen name="dayMonthFontHeight">24sp</dimen><color name="dayMonthFontColor">#9999AA</color><color name="dayMonthSundayFontColor">#CC6666</color><dimen name="dayNameWeekFontHeight">24sp</dimen><color name="dayNameWeekFontColor">#2277BB</color>
+    
+    
+    <color name="dayNameWeekCellBackground">#BB303030</color><color name="dayMonthCurrentCellBackground">#99CCCC34</color>
+    <color name="dayMonthCurrentFontColor">#333333</color><color name="widgetBackground">#BB363636</color>
+    
+    <dimen name="dateHeaderFontHeight">26sp</dimen>
+    <color name="dateHeaderFontColor">#EEEEEE</color>
+    
+    
+    
+    
+
+</resources>
